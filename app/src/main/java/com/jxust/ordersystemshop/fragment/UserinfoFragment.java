@@ -12,10 +12,10 @@ import com.jxust.ordersystemshop.R;
 /**
  * 商家发布界面
  */
-public class PublishFragment extends Fragment {
+public class UserinfoFragment extends Fragment {
 
     private View view;
-    public PublishFragment() {
+    public UserinfoFragment() {
         // Required empty public constructor
     }
     @Override
